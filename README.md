@@ -1,6 +1,8 @@
 # Student-Record-App
 An application to record students to files with various information
 
+This project is written in Python 3 to practice.
+
 This application has two main functions:
 - registering a student and writing information to file
 - reading a student record from file
