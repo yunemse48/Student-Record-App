@@ -11,6 +11,8 @@ While registering a student; the application asks for student name, surname, ID 
 
 While reading a student record; the application asks for student ID and it reads related data from the file, then it displays all. 
 
+Further information can be investigated by examining the code.
+
 ## Usage:
 
 Windows: `python student-record-app.py`<br>
